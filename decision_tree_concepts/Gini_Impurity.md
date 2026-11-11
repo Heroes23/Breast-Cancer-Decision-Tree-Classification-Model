@@ -16,7 +16,7 @@ $$ G(S) = 1 - \sum_{j=1}^{K} p_j^2 $$
 
 - Assume that you have some characters in a sequence below.
 
-### $$ [A, A, B, B, B, A] $$
+$$ [A, A, B, B, B, A] $$
 
 1. Find the proportions associated with each character.
 
