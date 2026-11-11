@@ -8,7 +8,7 @@
 
 ### Calculation
 
-### $$ G(S) = 1 - \sum_{j=1}^{K} p_j^2 $$
+$$ G(S) = 1 - \sum_{j=1}^{K} p_j^2 $$
 
 #### Example
 
