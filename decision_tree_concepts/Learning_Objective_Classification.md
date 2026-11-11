@@ -30,9 +30,9 @@
 
 #### Information Gain for Each Split
 
-$$ \text{Left Gain} = \text{Impurity(\text{Parent})} - \text{Impurity(\text{Left Node})} $$
+$$ \text{Left Gain} = \text{Impurity}(\text{Parent}) - \text{Impurity}(\text{Left Node}) $$
 
-$$ \text{Right Gain} = \text{Impurity(\text{Parent})} - \text{Impurity(\text{Right Node})} $$
+$$ \text{Right Gain} = \text{Impurity(\text{Parent}) - \text{Impurity(\text{Right Node}) $$
 
 
 
